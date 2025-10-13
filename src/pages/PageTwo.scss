@@ -1,0 +1,19 @@
+.page-two {
+  background-color: #ffe0e0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  h1 {
+    font-size: 2.5rem;
+    color: #b30000;
+  }
+
+  .back-button {
+    margin-top: 20px;
+    color: #0055aa;
+    text-decoration: underline;
+  }
+}
